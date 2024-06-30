@@ -45,10 +45,12 @@
 ### Method 2 (Via the App itself)
 1. Join the [Aliucord Server](https://discord.com/invite/EsNDvBaHVU)
 2. Click on this [link](https://discord.com/channels/811255666990907402/824357609778708580/1020200793338548304)
-4. Long press the message and press on install then tap on your desired flavour!
-5. Open Aliucord's settings
-6. Open Themer's plugin settings
-7. Enable the theme!
+> [!NOTE]
+> This link currently does not work, as the theme has not been submitted.
+3. Long press the message and press on install then tap on your desired flavour!
+4. Open Aliucord's settings
+5. Open Themer's plugin settings
+6. Enable the theme!
 
 ## 🙋 FAQ 
 
