@@ -3,7 +3,8 @@
         "author": "nyraki",
         "name": "catppuccin latte",
         "version": "1.0.0",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/aliucord\/main\/src\/latte.json"
     },
     "background": {},
     "fonts": {
