@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myumichi/Aliucord/main/assets/new-preview.png"/>
+  <img src="https://raw.githubusercontent.com/myumichi/Aliucord/main/assets/preview.png"/>
 </p>
 
 ## Previews
