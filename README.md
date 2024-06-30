@@ -70,10 +70,6 @@
 
 ## 💝 Thanks to:
 
-- [Skinatro](https://github.com/skinatro)
-- [lemon](https://github.com/andreasgrafen)
-- [Isabelinc](https://github.com/Isabelincorp)
-- [WitherCubes](https://github.com/WitherCubes) 
 - [myumichi](https://github.com/myumichi) <br>
 and everyone else who made the original Discord PC and Aliucord port!
 
