@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/aliucord/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/aliucord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/aliucord/issues"><img src="https://img.shields.io/github/issues/catppuccin/aliucord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/aliucord/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/aliucord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/myumichi/aliucord/stargazers"><img src="https://img.shields.io/github/stars/myumichi/aliucord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/myumichi/aliucord/issues"><img src="https://img.shields.io/github/issues/myumichi/aliucord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/myumichi/aliucord/contributors"><img src="https://img.shields.io/github/contributors/myumichi/aliucord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@
 
 ## 🙋 FAQ 
 
-- Q: **_"Can this get my account banned?"_**
-- A: Using third party clients and injecting custom css is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion.
+> [!CAUTION]
+> **Using third party clients is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion.**
 
 - Q: **_Which plugins are used in the screenshots?_**
 - A: The plugins included are:
